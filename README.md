@@ -43,3 +43,7 @@ Self-driven quant research playground.
 - One reproducible command exists for each backtest.
 - Report includes return, max drawdown, Sharpe, trade count, and win rate.
 - Add a short note: what failed, what to try next.
+
+## Activity Log
+
+- 2026-02-16 22:31:47 CST: Repo freshness update (README maintenance commit).
